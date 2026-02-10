@@ -1,0 +1,21 @@
+[
+  {
+    "Author": "YOUR_NAME",
+    "Name": "Inventory Combat Alert",
+    "InternalName": "InventoryCombatAlert",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "Warns you when your inventory is full upon entering combat.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "YOUR_GITHUB_REPO_URL_HERE",
+    "Tags": ["inventory", "combat", "alert"],
+    "DalamudApiLevel": 11,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "DownloadLinkInstall": "https://github.com/UnbirthdayHatter/Inventory-Combat-Alert/blob/main/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "IsDip17Plugin": true
+  }
+]
