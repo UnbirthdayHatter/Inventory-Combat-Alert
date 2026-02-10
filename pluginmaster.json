@@ -3,7 +3,7 @@
     "Author": "UnbirthdayHatter",
     "Name": "Inventory Combat Alert",
     "InternalName": "InventoryCombatAlert",
-    "AssemblyVersion": "1.0.2.0",
+    "AssemblyVersion": "1.0.3.0",
     "Description": "Warns you when your inventory is full upon entering combat.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/UnbirthdayHatter/Inventory-Combat-Alert",
