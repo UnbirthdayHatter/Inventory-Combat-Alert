@@ -13,7 +13,7 @@
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
-    "DownloadLinkInstall": "https://github.com/UnbirthdayHatter/Inventory-Combat-Alert/blob/main/latest.zip",
+    "DownloadLinkInstall": "https://github.com/UnbirthdayHatter/Inventory-Combat-Alert/raw/main/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
     "IsDip17Plugin": true
