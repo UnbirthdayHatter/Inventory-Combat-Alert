@@ -8,7 +8,7 @@ Inventory Combat Alert is a lightweight plugin for Final Fantasy XIV that automa
 
 * **Automatic Scanning:** Checks your 4 main inventory bags instantly upon entering combat.
 * **Visual Alerts:**
-    * **CRITICAL:** If bags are 100% full, you get a large error on screen and an "Angry Buzz" sound.
+    * **CRITICAL:** If bags are 100% full, you get a large error on screen and an "New Duty Unlocked" sound.
     * **WARNING:** If bags are low (e.g., < 3 slots), you get a gentle "Quest Complete" toast and sound.
 * **Customizable Threshold:** You decide when to be warned (1 to 10 slots left).
 * **Sound Options:** Choose between "Happy Ding," "Angry Buzz," "Silent," or your own **Custom Sound File**.
