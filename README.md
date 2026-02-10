@@ -20,7 +20,7 @@ Inventory Combat Alert is a lightweight plugin for Final Fantasy XIV that automa
 2.  Go to the **Experimental** tab.
 3.  Paste the following URL into the **Custom Plugin Repositories** section:
     ```
-    [https://raw.githubusercontent.com/UnbirthdayHatter/Inventory-Combat-Alert/main/pluginmaster.json](https://raw.githubusercontent.com/UnbirthdayHatter/Inventory-Combat-Alert/main/pluginmaster.json)
+    https://raw.githubusercontent.com/UnbirthdayHatter/Inventory-Combat-Alert/main/pluginmaster.json
     ```
 4.  Click the **+** button to add the repo.
 5.  Click **Save and Close**.
